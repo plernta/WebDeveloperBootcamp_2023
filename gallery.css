@@ -1,0 +1,67 @@
+body {
+	padding: 70px;
+}
+
+
+/*.flex {
+  display: flex;
+  flex-wrap: wrap;
+}*/
+
+/*.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}*/
+
+.thumbnail img {
+    object-fit: cover;
+    height: 200px !important;
+    width: 100%;
+}
+
+/*.image1 {
+	background-image: url(https://source.unsplash.com/wejhq4J-UNo);
+}
+.image2 {
+	background-image: url(https://source.unsplash.com/RRNHdU2JoKQ);
+}
+.image3 {
+	background-image: url(https://source.unsplash.com/sMQiL_2v4vs);
+}
+.image4 {
+	background-image: url(https://source.unsplash.com/JWa5jZ1LkJY);
+}
+.image5 {
+	background-image: url(https://source.unsplash.com/10TyP74oIqY);
+}
+.image6 {
+	background-image: url(https://source.unsplash.com/W0Yp5uk2UnQ);
+}
+.image7 {
+	background-image: url(https://source.unsplash.com/vzVGHfxZIZ8);
+}
+.image8 {
+	background-image: url(https://source.unsplash.com/hjW4o5XfCzc);
+}
+.image9 {
+	background-image: url(https://source.unsplash.com/SFkv16V_09c);
+}*/
+
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.navbar-inverse {
+	color: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
